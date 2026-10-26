@@ -1,0 +1,16 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Micah Mitchell",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.4"
+  }
+}
